@@ -1,4 +1,4 @@
-module opensearch-cli
+module github.com/opensearch-project/opensearch-cli
 
 go 1.16
 
